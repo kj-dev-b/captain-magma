@@ -31,11 +31,6 @@
   padding: 1rem;
 }
 
-.nav-list > li {
-  display: inline-block;
-  padding: 1rem;
-}
-
 @keyframes Home-logo-spin {
   from {
     transform: rotate(0deg);

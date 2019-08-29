@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './Captain_Magma.jpg';
 import './Home.css';
+import './Nav.css';
 
 class About extends React.Component {
   render() {
